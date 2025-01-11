@@ -14,7 +14,7 @@ global.ownernomer = "2348153729342"
 global.ownername = "healingheart"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "Nigeria, oyo, ibadan"
 
 global.ownernumber = '2348153729342'  //creator number
 global.ownername = 'healingheart' //owner name
