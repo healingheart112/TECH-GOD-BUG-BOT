@@ -22,11 +22,9 @@ global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
-
-//console view/theme
-global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.author = 'Tech-God\n\nContact: +2348153729342console view/theme
+global.themeemoji = '🥰'
+global.wm = "healingheart."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
